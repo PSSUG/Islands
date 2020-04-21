@@ -12,7 +12,7 @@ Your mission, should you accept:
 
 The team with the lowest number of logical reads wins. In case of a tie, the team that solve the bonus wins. Still a tie? The first submission wins. 
 
-**Make sure you send me your number of reads and query, as soon as you have the correct result.**
+**Make sure you send me your number of reads and query (privately!), as soon as you have the correct result.**
 
 For reference, I came up with several solutions using 1784 reads (1874 with paralelism enabled). The slowest executed in about 1 second, the fastest finished after about 330 ms. (That's in a VM with access to 3 CPU cores on my laptop.)
 
